@@ -150,7 +150,6 @@ let enabledChannels = {
       offline: "FeelsBadMan VADIKUS HAS GONE OFFLINE! FeelsBadMan 👉 ",
     },
     protection: {
-      endpoint: "https://vadikus007.botfactory.live/api/v1/banphrases/test",
       lengthLimit: 350,
       disabledCommands: ["quit", "debug"],
     },
@@ -236,7 +235,6 @@ let enabledChannels = {
       offline: "FeelsBadMan Teyn has gone offline FeelsBadMan 👉 ",
     },
     protection: {
-      endpoint: "https://teyn.botfactory.live/api/v1/banphrases/test",
       lengthLimit: 350,
     },
   },
