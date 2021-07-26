@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RAnders00/bot-titlechange.git"
+    "url": "git+https://github.com/zneix/tcb"
   },
-  "author": "Ruben Anders <ruben.anders@zwb3.de>",
+  "author": "Ruben Anders (former) <ruben.anders@zwb3.de> zneix (current) <zneix@zneix.eu>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/RAnders00/bot-titlechange/issues"
+    "url": "https://github.com/zneix/tcb/issues"
   },
-  "homepage": "https://github.com/RAnders00/bot-titlechange#readme",
+  "homepage": "https://github.com/zneix/tcb#readme",
   "dependencies": {
     "escape-string-regexp": "^4.0.0",
     "ioredis": "^4.19.4",

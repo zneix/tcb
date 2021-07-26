@@ -21,10 +21,10 @@ const krakenClientId = secrets.krakenClientId;
 
 // list of users with superuser privileges. Use with extreme caution, since
 // these users have access to arbitrary code execution with !debug
-let administrators = ["randers"];
+let administrators = ["zneix"];
 
 // The bot will post a "I am running"-style message to this channel on startup.
-const startupChannel = "randers";
+const startupChannel = "zneix";
 
 // if a channel is offline-only protected, and a change occurs, the bot prints
 // to this channel instead of the channel the change occurred in.
@@ -32,7 +32,7 @@ const onlinePrintChannel = "titlechange_bot";
 
 // list of channel names where the bot is not limited to the global 1.2 second
 // slowmode (channels it is broadcaster, moderator or VIP in)
-const modChannels = ["titlechange_bot", "randers", "forsen", "vadikus007"];
+const modChannels = ["titlechange_bot", "zneix", "forsen", "vadikus007"];
 
 // tip: use !userid <usernames...> command in the #pajlada chat to get user IDs
 // add the "protection" object to enable pajbot banphrase checking protection
