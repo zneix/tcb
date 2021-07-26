@@ -152,6 +152,7 @@ let enabledChannels = {
     protection: {
       lengthLimit: 350,
       disabledCommands: ["quit", "debug"],
+      offlineOnly: true,
     },
   },
   apa420: {
