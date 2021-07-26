@@ -1008,7 +1008,7 @@ async function bot(channelName, context, params) {
   await sendReply(
     channelName,
     context,
-    `I am a bot made by randers. I can notify you when the channel goes live or the title changes. Try ${config.commandPrefix}help for a list of commands. pajaDank`
+    `I am a bot hosted by zneix. I can notify you when the channel goes live or the title changes. Try ${config.commandPrefix}help for a list of commands. pajaDank`
   );
 }
 
@@ -1200,7 +1200,7 @@ async function censorBanphrases(channelName, message) {
           console.error(
             "Was unable to modify the string with the built regex at all. Returning error message"
           );
-          return "error while trying to censor banphrases monkaOMEGA @randers";
+          return "error while trying to censor banphrases monkaOMEGA @zneix";
         }
         message = censoredMessage;
         console.log(

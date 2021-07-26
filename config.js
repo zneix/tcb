@@ -602,13 +602,13 @@ let enabledChannels = {
       offline: "FeelsBadMan teischEnte has gone offline FeelsBadMan 👉 ",
     },
   },
-  kiansly: {
+  kian: {
     id: 414653932,
     formats: {
       title: "AlienPls NEW TITLE! AlienPls 👉 $VALUE$ 👉 ",
       game: "AlienPls NEW GAME! AlienPls 👉 $VALUE$ 👉 ",
-      live: "dankClappers 👉 kiansly has gone live dankClappers 👉 ",
-      offline: "OFFLINECHAT kiansly has gone offline OFFLINECHAT 👉 ",
+      live: "dankClappers 👉 Kian has gone live dankClappers 👉 ",
+      offline: "OFFLINECHAT Kian has gone offline OFFLINECHAT 👉 ",
     },
   },
   omegamk19: {
