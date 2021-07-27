@@ -24,7 +24,7 @@ const krakenClientId = secrets.krakenClientId;
 let administrators = ["zneix"];
 
 // The bot will post a "I am running"-style message to this channel on startup.
-const startupChannel = "zneix";
+const startupChannel = "zneixbot";
 
 // if a channel is offline-only protected, and a change occurs, the bot prints
 // to this channel instead of the channel the change occurred in.
@@ -416,10 +416,10 @@ let enabledChannels = {
   fabzeef: {
     id: 148973258,
     formats: {
-      title: "DinkBeef NEW TITLE! DinkBeef 👉 $VALUE$ 👉 ",
-      game: "DinkBeef NEW GAME! DinkBeef 👉 $VALUE$ 👉 ",
-      live: "dankClappers 👉 fabZeef has gone live dankClappers 👉 ",
-      offline: "peepoDownSadDank fabZeef has gone offline peepoDownSadDank 👉 ",
+      title: "PAGGING NEW TITLE! PAGGING 👉 $VALUE$ 👉 ",
+      game: "PAGGING NEW GAME! PAGGING 👉 $VALUE$ 👉 ",
+      live: "BeefClap 👉 fabZeef has gone live BeefClap 👉 ",
+      offline: "ApuDown fabZeef has gone offline ApuDown 👉 ",
     },
   },
   nosignal_1337: {
