@@ -401,18 +401,6 @@ let enabledChannels = {
       offline: "FeelsBadMan 360ZEUS has gone offline FeelsBadMan 👉 ",
     },
   },
-  weest: {
-    id: 130924701,
-    formats: {
-      title: "PagChomp NEW TITLE! PagChomp 👉 $VALUE$ 👉 ",
-      game: "PagChomp NEW GAME! PagChomp 👉 $VALUE$ 👉 ",
-      live: "PagChomp 👉 Weest has gone live PagChomp 👉 ",
-      offline: "FeelsBadMan Weest has gone offline FeelsBadMan 👉 ",
-    },
-    protection: {
-      disabledCommands: ["game", "title"],
-    },
-  },
   fabzeef: {
     id: 148973258,
     formats: {
@@ -510,15 +498,6 @@ let enabledChannels = {
       game: "PagChomp NEW GAME! PagChomp 👉 $VALUE$ 👉 ",
       live: "PagChomp 👉 Ebbel has gone live PagChomp 👉 ",
       offline: "FeelsBadMan Ebbel has gone offline FeelsBadMan 👉 ",
-    },
-  },
-  echoflex: {
-    id: 128217169,
-    formats: {
-      title: "PagChomp NEW TITLE! PagChomp 👉 $VALUE$ 👉 ",
-      game: "PagChomp NEW GAME! PagChomp 👉 $VALUE$ 👉 ",
-      live: "PagChomp 👉 EchoFlex has gone live PagChomp 👉 ",
-      offline: "FeelsBadMan EchoFlex has gone offline FeelsBadMan 👉 ",
     },
   },
   beem0o: {
