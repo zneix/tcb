@@ -1624,10 +1624,10 @@ let enabledChannels = {
   liptongod: {
     id: 61021189,
     formats: {
-      title: "PogChamp NEW TITLE! PogChamp 👉 $VALUE$ 👉 ",
-      game: "PogChamp NEW GAME! PogChamp 👉 $VALUE$ 👉 ",
-      live: "PogChamp 👉 LiptonGod has gone live PogChamp 👉 ",
-      offline: "FeelsBadMan LiptonGod has gone offline FeelsBadMan 👉 ",
+      title: "donoWall NEW TITLE! donoWall 👉 $VALUE$ 👉 ",
+      game: "donoWall NEW GAME! donoWall 👉 $VALUE$ 👉 ",
+      live: "LiptonLive 👉 LiptonGod has gone live LiptonLive 👉 ",
+      offline: "xqcL LiptonGod has gone offline xqcL 👉 ",
     },
   },
   craymatettv: {
