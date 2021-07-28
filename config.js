@@ -500,6 +500,15 @@ let enabledChannels = {
       offline: "FeelsBadMan Ebbel has gone offline FeelsBadMan 👉 ",
     },
   },
+  echoflex: {
+    id: 128217169,
+    formats: {
+      title: "PagChomp NEW TITLE! PagChomp 👉 $VALUE$ 👉 ",
+      game: "PagChomp NEW GAME! PagChomp 👉 $VALUE$ 👉 ",
+      live: "PagChomp 👉 EchoFlex has gone live PagChomp 👉 ",
+      offline: "FeelsBadMan EchoFlex has gone offline FeelsBadMan 👉 ",
+    },
+  },
   beem0o: {
     id: 132351085,
     formats: {
