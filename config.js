@@ -2125,6 +2125,15 @@ let enabledChannels = {
       offline: "FeelsBadMan Phant0mBlades has gone offline FeelsBadMan 👉 ",
     },
   },
+  revengedtv: {
+    id: 430886469,
+    formats: {
+      title: "PogChamp NEW TITLE! PogChamp 👉 $VALUE$ 👉 ",
+      game: "PogChamp NEW GAME! PogChamp 👉 $VALUE$ 👉 ",
+      live: "PogChamp 👉 RevengedTV has gone live PogChamp 👉 ",
+      offline: "FeelsBadMan RevengedTV has gone offline FeelsBadMan 👉 ",
+    },
+  },
 };
 
 opts.channels.push(...Object.keys(enabledChannels));
