@@ -1633,9 +1633,9 @@ let enabledChannels = {
   craymatettv: {
     id: 246884260,
     formats: {
-      title: "PogChamp NEW TITLE! PogChamp 👉 $VALUE$ 👉 ",
-      game: "PogChamp NEW GAME! PogChamp 👉 $VALUE$ 👉 ",
-      live: "PogChamp 👉 CraymateTTV has gone live PogChamp 👉 ",
+      title: "PagChomp NEW TITLE! PagChomp 👉 $VALUE$ 👉 ",
+      game: "PagChomp NEW GAME! PagChomp 👉 $VALUE$ 👉 ",
+      live: "PagChomp 👉 CraymateTTV has gone live PagChomp 👉 ",
       offline: "FeelsBadMan CraymateTTV has gone offline FeelsBadMan 👉 ",
     },
   },
