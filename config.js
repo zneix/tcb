@@ -2134,6 +2134,15 @@ let enabledChannels = {
       offline: "FeelsBadMan RevengedTV has gone offline FeelsBadMan 👉 ",
     },
   },
+  mm2pl: {
+    id: 117691339,
+    formats: {
+      title: "GachiPls NEW TITLE! FeelsGoldMan 👉 $VALUE$ 👉 ",
+      game: "GachiPls NEW GAME! FeelsGoldMan 👉 $VALUE$ 👉 ",
+      live: "ppFoop 👉 Mm2PL has gone live ppFoop 👉 ",
+      offline: "ppL TeaTime Mm2PL has gone offline ppL TeaTime ",
+    },
+  },
 };
 
 opts.channels.push(...Object.keys(enabledChannels));
