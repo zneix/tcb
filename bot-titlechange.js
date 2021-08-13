@@ -734,14 +734,14 @@ async function notifyme(channelName, context, params) {
     await sendReply(
       channelName,
       context,
-      `I will now ping you in chat when ${eventConfig.description}!`
+      `I will now ping you in chat ${eventConfig.description}!`
     );
   } else {
     // new specific sub
     await sendReply(
       channelName,
       context,
-      `I will now ping you in chat when ${eventConfig.description}, but only when the value contains ` +
+      `I will now ping you in chat ${eventConfig.description}, but only when the value contains ` +
         `"${requiredValue}"!`
     );
   }
