@@ -1999,13 +1999,13 @@ let enabledChannels = {
       offline: "FeelsBadMan tomso has gone offline FeelsBadMan 👉 ",
     },
   },
-  poppzie: {
+  popzhi: {
     id: 52766484,
     formats: {
       title: "PogChamp NEW TITLE! PogChamp 👉 $VALUE$ 👉 ",
       game: "PogChamp NEW GAME! PogChamp 👉 $VALUE$ 👉 ",
-      live: "PogChamp 👉 PoppZie has gone live PogChamp 👉 ",
-      offline: "FeelsBadMan PoppZie has gone offline FeelsBadMan 👉 ",
+      live: "PogChamp 👉 popzhi has gone live PogChamp 👉 ",
+      offline: "FeelsBadMan popzhi has gone offline FeelsBadMan 👉 ",
     },
   },
   yuho__: {
